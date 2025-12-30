@@ -15,3 +15,8 @@ app.get("/todo", (req, res) => {
     message: "Hi there",
   });
 });
+app.get("/todwqwfo", (req, res) => {
+  res.json({
+    message: "Hi there",
+  });
+});
