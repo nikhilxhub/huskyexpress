@@ -1,2 +1,2 @@
 #!/bin/sh
-npm run prettier
+npx lint-staged

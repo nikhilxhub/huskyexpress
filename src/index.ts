@@ -6,12 +6,12 @@ let x = 1;
 
 app.get("/", (req, res) => {
   res.json({
-          message: "Hi there",
+    message: "Hi there",
   });
 });
 
 app.get("/todo", (req, res) => {
-          res.json({
+  res.json({
     message: "Hi there",
   });
 });
