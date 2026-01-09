@@ -20,3 +20,5 @@ app.get("/todwqwfo", (req, res) => {
     message: "Hi wdwdwthere",
   });
 });
+
+// git config core.hooksPath .husky
